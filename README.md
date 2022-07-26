@@ -1,5 +1,5 @@
 # Git-assignment
-These are the steps for creating a repository on Git and github then linking them. the idea i'm gonna use is to create 
+These are the steps for creating a repository on Git and github then linking them. 
 
 
 on the commandline 
